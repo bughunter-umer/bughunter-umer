@@ -395,6 +395,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="60" /> with <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="50" /> by [Qasim Ali Zahid]
+  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="60" /> with <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="50" /> by [bughunterumer]
   <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="Girl in a jacket" width="100" height="100">
 </div
