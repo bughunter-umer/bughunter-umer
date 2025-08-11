@@ -30,5 +30,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bughunter-umer&show_icons=true&locale=en&layout=compact" alt="bughunter-umer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bughunter-umer&show_icons=true&locale=en" alt="bughunter-umer" /></p>
-
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bughunter-umer&" alt="bughunter-umer" /></p>
+</div>
